@@ -1,0 +1,5 @@
+[package]
+
+name = "rust101"
+version = "0.0.1"
+authors = [ "vladb951" ]
