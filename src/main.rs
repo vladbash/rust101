@@ -24,7 +24,7 @@
 // // fn main() {
 // //     let mut core = Core::new().unwrap();
 
-// //     let token = "613685423:AAH8LlDkhbG0arh74kgIhJUc9uJkBt52XS8";
+// //     let token = "";
 // //     let api = Api::configure(token).build(core.handle()).unwrap();
 
 // //     // Fetch new updates via long poll method
